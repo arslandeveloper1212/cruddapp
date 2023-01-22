@@ -1,0 +1,11 @@
+.image_btn_handle{
+    border: 1px solid red;
+   position: relative;
+
+}
+
+.btn_handle{
+ position: absolute;
+ left: 80%;
+ flex-wrap: nowrap;
+}
